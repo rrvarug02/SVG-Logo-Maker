@@ -25,3 +25,5 @@ Instructor has provided the shapes.test.js file
 For any questions, please contact me:
 - GitHub: [rrvarug02](https://github.com/rrvarug02)
 - Email: rahulvarughese02@gmail.com
+
+- Walkthrough video: https://drive.google.com/file/d/1Asg92R5xDh4xX_Q--fiBGTXqzWYzwKGa/view
