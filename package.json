@@ -12,10 +12,10 @@
   "author": "",
   "license": "ISC",
   "description": "",
-  "dependencies": {
-    "inquirer": "^10.2.2"
-  },
   "devDependencies": {
     "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.6"
   }
 }
